@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MoneyFlow</string>
+    <string name="expense">Despesas</string>
+    <string name="expense_category">Categorias de despesa</string>
+    <string name="total_expenses">Despesas totais</string>
+    <string name="add_expenses">Adicionar despesa</string>
+</resources>

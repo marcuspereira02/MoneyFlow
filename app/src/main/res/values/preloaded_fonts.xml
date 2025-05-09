@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/acme</item>
+        <item>@font/agdasima</item>
+        <item>@font/averia_libre_light</item>
+    </array>
+</resources>

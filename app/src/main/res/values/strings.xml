@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MoneyFlow</string>
+    <string name="expense">Expenses</string>
+    <string name="expense_category">Expense category</string>
+    <string name="total_expenses">Total expenses</string>
+    <string name="add_expenses">Add expenses</string>
 </resources>
